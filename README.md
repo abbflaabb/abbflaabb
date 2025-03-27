@@ -19,15 +19,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ## 🚀 My Java Projects
-### [Project Name 1]
-- Brief description of your Java project
-- Features implemented
-- Technologies used: Java, Spring, etc.
-
-### [Project Name 2]
-- Brief description of your Java project
-- Features implemented
-- Technologies used: Java, Maven, etc.
+### [Lobby]
+- link:https://github.com/abbflaabb/Lobby
 
 ## 📊 GitHub Statistics
 

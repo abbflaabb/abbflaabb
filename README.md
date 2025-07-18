@@ -1,5 +1,11 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#36BCF7;">abbflaabb</span></h1>
-<h3 align="center">🚀 Passionate Backend & Minecraft Plugin Developer from Iraq 🇮🇶</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hi, I'm <span style="color:#36BCF7;">abbflaabb</span>
+</h1>
+
+<h3 align="center">
+  Backend & Minecraft Plugin Developer • Creative Coder • Based in Iraq 🇮🇶
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+Backend+%26+Plugin+Developer.;I+love+Minecraft+plugin+development!;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
@@ -9,58 +15,75 @@
 
 ## 🚀 About Me
 
-- 💻 Full-time Minecraft plugin developer
-- 🧠 Always focused on performance, optimization, and scalability
-- 🧩 Obsessed with solving complex backend problems
-- 🎮 Experienced with Spigot, Paper, Velocity, and API development
-- 🧪 Currently exploring: Networking, Java Concurrency, Microservices
+- 🔧 Building scalable Minecraft plugins & backend tools
+- 🧠 Passionate about optimization, memory usage & design patterns
+- 🔌 Love tinkering with APIs, sockets, and servers
+- 🕹️ Making plugins fun, modular, and production-ready
 
 ---
 
-## 🛠️ Languages & Tools
+## ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40" alt="Gradle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
 </p>
 
 ---
 
-## 💼 Projects
+## 🧠 Currently Working On
 
-- 🛡️ **Custom BedWars Plugin** – Performance-tuned, modular, and customizable
-- ⚔️ **PvPEX Duels System** – Elo rankings, kits, GUI queues, & arena logic
-- 🧱 **Parkour Plugin** – Checkpoints, leaderboards, YAML storage, holograms
-- 🌐 **Backend APIs** – Auth, stats tracking, MySQL/Redis integrations
-- 🤖 **NPC Systems** – Citizens API integration with dynamic menus
+- 🎮 **Custom BedWars Plugin** – Next-gen with performance layers
+- ⚔️ **PvPEX Duels** – Elo rankings, kits, real-time leaderboards
+- 🧱 **Advanced Parkour System** – Leaderboards, holograms, checkpoints
+- 📡 **API Servers** – RESTful & async networking backend support
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbflaabb&show_icons=true&theme=tokyonight&border_radius=10" alt="abbflaabb's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abbflaabb&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbflaabb&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak & Achievements
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbflaabb&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbflaabb&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abbflaabb&theme=tokyonight&no-frame=true&column=6&margin-w=15" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbflaabb&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+---
+
+## 🧩 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🛏️ **BedWars Plugin** | Custom iron/gold/diamond generators, force-party-teams, shop upgrades |
+| 🛡️ **PvPEX Duels** | Arena queue system, Elo matchmaking, GUI menus, multipage leaderboards |
+| 🧱 **Parkour Pro** | Holograms, YAML stats, checkpoints, time trials |
+| ⚙️ **Teleport Bow** | Shoot to teleport, class-based config, event listeners |
+| 🧠 **Mute & Ban Manager** | UUID-based punishment IDs (e.g. MUTE-XXXX), GUI moderation tools |
 
 ---
 
 ## 📫 Contact Me
 
-- 💬 Discord: `abbflaabb`
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/abbflaabb"><img src="https://img.shields.io/badge/Discord-abbflaabb-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/website-online-0aa?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
 ---
 

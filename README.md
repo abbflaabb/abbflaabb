@@ -38,8 +38,6 @@
 ## 🧠 Currently Working On
 
 - 🎮 **Custom BedWars Plugin** – Next-gen with performance layers
-- ⚔️ **PvPEX Duels** – Elo rankings, kits, real-time leaderboards
-- 🧱 **Advanced Parkour System** – Leaderboards, holograms, checkpoints
 - 📡 **API Servers** – RESTful & async networking backend support
 
 ---
@@ -70,10 +68,8 @@
 | Project | Description |
 |--------|-------------|
 | 🛏️ **BedWars Plugin** | Custom iron/gold/diamond generators, force-party-teams, shop upgrades |
-| 🛡️ **PvPEX Duels** | Arena queue system, Elo matchmaking, GUI menus, multipage leaderboards |
 | 🧱 **Parkour Pro** | Holograms, YAML stats, checkpoints, time trials |
-| ⚙️ **Teleport Bow** | Shoot to teleport, class-based config, event listeners |
-| 🧠 **Mute & Ban Manager** | UUID-based punishment IDs (e.g. MUTE-XXXX), GUI moderation tools |
+| ⚙️ **Lobby Plugin** | Shoot to teleport, class-based config, event listeners |
 
 ---
 

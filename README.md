@@ -12,15 +12,19 @@
 - 💡 I'm always looking to **improve performance and scalability**
 - ⚡ Fun fact: I enjoy learning about **networking, APIs, and optimization**
 
+---
+
 ## 🛠️ Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="Gradle Logo" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="Gradle Logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
+
+---
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -35,10 +39,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbflaabb&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
+---
+
 ## 💼 Projects
-- 🎮 **Minecraft Plugins**: Custom BedWars, PvPEX Duels, Parkour systems, and more
-- ⚔️ **Advanced game mechanics**: Leaderboards, Elo ranking, holograms, NPCs
-- 🌐 **Backend services**: APIs, database systems, scalable designs
+- 🛏️ **Custom BedWars**: Generators, parties, upgrades, NPCs, menus, and more!
+
+---
 
 ## 📫 Contact
 - 💬 Discord: **abbflaabb**

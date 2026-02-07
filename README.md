@@ -27,18 +27,24 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,git,linux,maven,gradle,idea&perline=5" />
 </div>
 
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
 ---
 
 ## 🏆 **Featured Projects**
 
 ### **🛡️ Advanced BedWars System**
-A complete, production-ready BedWars plugin with enterprise-grade features.
+A complete, production-ready BedWars plugin with enterprise-grade features:
 
 **Core Features:**
 - 🔄 **Smart Generators** - Configurable resource generation
 - 👥 **Party System** - Advanced team management
 - 🧠 **Dynamic Holograms** - Real-time displays
-- 📊 **Analytics Dashboard** - Real-time statistics tracking
+- 📊 **Analytics Dashboard** - Real-time game statistics tracking
+
+**Tech Stack:** `Java` `Spigot/Paper API` `MySQL` `Redis`
 
 ---
 
@@ -47,6 +53,35 @@ A complete, production-ready BedWars plugin with enterprise-grade features.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abbflaabb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbflaabb&theme=tokyonight&hide_border=true&background=0d1117" width="48%"/>
+</div>
+
+---
+
+## 🎯 **Expertise Areas**
+
+```java
+public class Developer {
+    private String name = "abbflaabb";
+    private String[] expertise = {
+        "Minecraft Plugin Development",
+        "Backend API Design",
+        "Database Architecture"
+    };
+}
+```
+
+---
+
+## 🌟 **Services Offered**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🎮<br><b>Plugin Development</b><br>Custom Minecraft plugins</td>
+      <td align="center">⚡<br><b>Performance Tuning</b><br>Server optimization</td>
+      <td align="center">🔧<br><b>Backend Systems</b><br>APIs & databases</td>
+    </tr>
+  </table>
 </div>
 
 ---

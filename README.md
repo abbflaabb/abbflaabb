@@ -36,14 +36,7 @@
 ## 🏆 **Featured Projects**
 
 
-### **🛡️ Advanced BedWars System**
-A complete, production-ready BedWars plugin with enterprise-grade features:
-
-**Core Features:**
-- 🔄 **Smart Generators** - Configurable resource generation
-- 🔄 **Party System** - Advanced team management
-- 🔄 **Dynamic Holograms** - Real-time displays
-- 🔄 **Analytics Dashboard** - Real-time game statistics tracking
+### **🛡️ BedWars2023-RewardsGenerator**
 
 **Tech Stack:** `Java Spigot/Paper API MySQL Redis`
 

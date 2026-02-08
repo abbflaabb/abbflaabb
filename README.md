@@ -13,11 +13,11 @@
 
 ## 🚀 **What I Do**
 
-- 🔥 **Java Systems Engineering** - Engineering high-concurrency Minecraft plugins and backend services designed to handle enterprise-level player loads with peak performance.
-- 🔥 **Scalable Microservices** - Architecting resilient, containerized backend systems using Spring and Docker to provide a stable foundation for high-traffic applications.
-- 🔥 **Optimized Data Management** - Designing high-throughput data architectures with MySQL and Redis that minimize latency and ensure data integrity at scale.
-- 🔥 **Complex Gameplay Mechanics** - Developing sophisticated game logic and interactive systems that optimize user retention and create immersive, competitive experiences.
-- 🔥 **DevOps & System Orchestration** - Automating development lifecycles and managing secure Linux environments to ensure rapid, reliable deployment of mission-critical software.
+- 🔥 **Minecraft Plugin Development** - Creating high-performance, scalable plugins for Paper/Spigot servers
+- 🔥 **Backend Systems** - Building robust APIs and microservices architectures
+- 🔥 **Custom Solutions** - Tailored systems for unique server requirements and gameplay mechanics
+- 🔥 **Performance Optimization** - Making servers faster and more efficient with advanced caching strategies
+- 🔥 **Game Mechanics Design** - Crafting engaging gameplay experiences with balanced progression systems
 
 ---
 
@@ -36,7 +36,14 @@
 ## 🏆 **Featured Projects**
 
 
-### **🛡️ BedWars2023-RewardsGenerator**
+### **🛡️ Advanced BedWars System**
+A complete, production-ready BedWars plugin with enterprise-grade features:
+
+**Core Features:**
+- 🔄 **Smart Generators** - Configurable resource generation
+- 🔄 **Party System** - Advanced team management
+- 🔄 **Dynamic Holograms** - Real-time displays
+- 🔄 **Analytics Dashboard** - Real-time game statistics tracking
 
 **Tech Stack:** `Java Spigot/Paper API MySQL Redis`
 

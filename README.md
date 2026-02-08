@@ -13,11 +13,11 @@
 
 ## 🚀 **What I Do**
 
-- 🔥 **Minecraft Plugin Development** - Creating high-performance, scalable plugins for Paper/Spigot servers
-- 🔥 **Backend Systems** - Building robust APIs and microservices architectures
-- 🔥 **Custom Solutions** - Tailored systems for unique server requirements and gameplay mechanics
-- 🔥 **Performance Optimization** - Making servers faster and more efficient with advanced caching strategies
-- 🔥 **Game Mechanics Design** - Crafting engaging gameplay experiences with balanced progression systems
+- 🔥 **High-Performance Plugin Engineering** - Architecting scalable, enterprise-grade Java systems for Paper/Spigot that support high player concurrency and complex logic.
+- 🔥 **Robust Backend Architecture** - Designing distributed microservices and secure APIs using Spring to power resilient, high-availability game environments.
+- 🔥 **Advanced Data Optimization** - Implementing sophisticated caching strategies and data pipelines with Redis and MySQL to minimize latency and maximize throughput.
+- 🔥 **Containerized Infrastructure Management** - Streamlining deployment and environment consistency across Linux-based systems using Docker for seamless operational scaling.
+- 🔥 **Strategic Systems Design** - Engineering custom gameplay mechanics and balanced progression systems that drive player engagement and long-term retention.
 
 ---
 
@@ -32,18 +32,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ---
-
-## 🏆 **Featured Projects**
-
-
-### **🛡️ Advanced BedWars System**
-A complete, production-ready BedWars plugin with enterprise-grade features:
-
-**Core Features:**
-- 🔄 **Smart Generators** - Configurable resource generation
-- 🔄 **Party System** - Advanced team management
-- 🔄 **Dynamic Holograms** - Real-time displays
-- 🔄 **Analytics Dashboard** - Real-time game statistics tracking
 
 **Tech Stack:** `Java Spigot/Paper API MySQL Redis`
 

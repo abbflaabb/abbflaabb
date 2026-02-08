@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hey+%F0%9F%91%8B+I'm+abbflaabb;Backend+%26+Plugin+Developer;From+Iraq+%F0%9F%87%AE%F0%9F%87%B6;Building+Amazing+Minecraft+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hey%20%F0%9F%91%8B%20I'm%20abbflaabb%3BBackend%20%26%20Plugin%20Developer%3BFrom%20Iraq%20%F0%9F%87%AE%F0%9F%87%B6%3BBuilding%20Amazing%20Minecraft%20Experiences" alt="Typing Animation" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Minecraft%20Plugins-brightgreen?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Location-Baghdad,%20Iraq-blue?style=for-the-badge&logo=googlemaps"/>
+  <img src="https://img.shields.io/badge/Location-Baghdad%2C%20Iraq-blue?style=for-the-badge&logo=googlemaps"/>
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-orange?style=for-the-badge&logo=calendar"/>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge&logo=checkmarx"/>
 </div>
@@ -14,10 +14,10 @@
 ## 🚀 **What I Do**
 
 - 🔥 **Minecraft Plugin Development** - Creating high-performance, scalable plugins for Paper/Spigot servers
-- ⚡ **Backend Systems** - Building robust APIs and microservices architectures  
-- 🛠️ **Custom Solutions** - Tailored systems for unique server requirements and gameplay mechanics
-- 📊 **Performance Optimization** - Making servers faster and more efficient with advanced caching strategies
-- 🎮 **Game Mechanics Design** - Crafting engaging gameplay experiences with balanced progression systems
+- 🔥 **Backend Systems** - Building robust APIs and microservices architectures
+- 🔥 **Custom Solutions** - Tailored systems for unique server requirements and gameplay mechanics
+- 🔥 **Performance Optimization** - Making servers faster and more efficient with advanced caching strategies
+- 🔥 **Game Mechanics Design** - Crafting engaging gameplay experiences with balanced progression systems
 
 ---
 
@@ -35,16 +35,18 @@
 
 ## 🏆 **Featured Projects**
 
+
 ### **🛡️ Advanced BedWars System**
 A complete, production-ready BedWars plugin with enterprise-grade features:
 
 **Core Features:**
 - 🔄 **Smart Generators** - Configurable resource generation
-- 👥 **Party System** - Advanced team management
-- 🧠 **Dynamic Holograms** - Real-time displays
-- 📊 **Analytics Dashboard** - Real-time game statistics tracking
+- 🔄 **Party System** - Advanced team management
+- 🔄 **Dynamic Holograms** - Real-time displays
+- 🔄 **Analytics Dashboard** - Real-time game statistics tracking
 
-**Tech Stack:** `Java` `Spigot/Paper API` `MySQL` `Redis`
+**Tech Stack:** `Java Spigot/Paper API MySQL Redis`
+
 
 ---
 
